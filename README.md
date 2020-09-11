@@ -37,7 +37,7 @@ Had some issues with the layout of the poster views but ended up being able to f
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/mattmo22/flix/blob/master/flixGif.gif" width=250><br>
+<img src="http://g.recordit.co/MPzyomxY1A.gif" width=250><br>
 <img src="http://g.recordit.co/VmgH5QuWSf.gif" width=250><br>
 
 
