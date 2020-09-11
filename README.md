@@ -38,6 +38,8 @@ Had some issues with the layout of the poster views but ended up being able to f
 ### App Walkthrough GIF
 
 <img src="https://github.com/mattmo22/flix/blob/master/flixGif.gif" width=250><br>
+<img src="http://g.recordit.co/VmgH5QuWSf.gif" width=250><br>
+
 
 ### Notes
 App went smoothly, had a little bit of challenge when xcode would not connect the storyboard to my movieviewcontroller file, but got it sorted out. Still need to work on auto layout but got the basics down. 
