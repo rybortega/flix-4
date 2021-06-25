@@ -33,7 +33,7 @@ Had some issues with the layout of the poster views but ended up being able to f
 
 #### BONUS
 - [x] (2pt) User can view the app on various device sizes and orientations.
-- [x] (1pt) Run your app on a real device.
+- [] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 
